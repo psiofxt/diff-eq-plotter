@@ -157,7 +157,6 @@ public class Builder {
 		JLabel yL = new JLabel();
 		JTextArea a = new JTextArea();
 		a.setLocation(540, 540);
-		a.setText("FFFFFFFFFFFUCK");
 		a.setBackground(Color.white);
 		yL.setText("Y");
 		xL.setText("X");
